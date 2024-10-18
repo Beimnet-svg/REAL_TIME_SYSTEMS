@@ -1,0 +1,22 @@
+rdtsc:
+Access latency: 36.00 ns
+Resolution: 36 ns
+clock_gettime:
+Access latency: 51.00 ns
+Resolution: 51 ns
+times:
+Access latency: 34.00 ns
+Resolution: 1082 ns
+
+
+rdtsc:
+Access latency: 55.00 ns
+Resolution: 55 ns
+clock_gettime:
+Access latency: 51.00 ns
+Resolution: 51 ns
+times:
+Access latency: 40.00 ns
+Resolution: 1485 ns
+
+

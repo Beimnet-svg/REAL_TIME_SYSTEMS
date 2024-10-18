@@ -1,0 +1,18 @@
+Using sleep():
+
+real	0m1.004s
+user	0m0.000s
+sys	0m0.004s
+
+Using busy_wait() with clock_gettime():
+
+real	0m1.003s
+user	0m1.002s
+sys	0m0.001s
+
+Using busy_wait() with times():
+Segmentation fault
+
+real	0m1.701s
+user	0m0.330s
+sys	0m1.368s

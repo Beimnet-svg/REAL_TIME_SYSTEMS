@@ -1,0 +1,29 @@
+0: Task 0: initiated in idle 
+0: Task 1: initiated in idle 
+0: Task 2: initiated in idle 
+0: Task 3: initiated in idle 
+0: Task 4: initiated in idle 
+0: Task 0: idle -> running, total time worked: 0 
+22: Task 0: running -> preempted, total time worked: 22 
+22: Task 1: idle -> running, total time worked: 0 
+34: Task 1: running -> preempted, total time worked: 12 
+34: Task 0: preempted -> running, total time worked: 22 
+44: Task 2: idle -> running, total time worked: 0 
+44: Task 0: running -> preempted, total time worked: 32 
+56: Task 2: running -> preempted, total time worked: 12 
+56: Task 3: idle -> running, total time worked: 0 
+68: Task 3: running -> preempted, total time worked: 12 
+68: Task 0: preempted -> running, total time worked: 32 
+78: Task 4: idle -> running, total time worked: 0 
+78: Task 0: running -> preempted, total time worked: 42 
+90: Task 0: preempted -> running, total time worked: 42 
+90: Task 4: running -> preempted, total time worked: 12 
+198: Task 0: running -> finished, total time worked: 150 
+198: Task 1: preempted -> running, total time worked: 12 
+246: Task 1: running -> finished, total time worked: 60 
+246: Task 2: preempted -> running, total time worked: 12 
+274: Task 2: running -> finished, total time worked: 40 
+274: Task 3: preempted -> running, total time worked: 12 
+312: Task 3: running -> finished, total time worked: 50 
+312: Task 4: preempted -> running, total time worked: 12 
+320: Task 4: running -> finished, total time worked: 20 

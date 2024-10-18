@@ -1,0 +1,14 @@
+rdtsc:
+Access latency: 59.00 ns
+Resolution: 59 ns
+clock_gettime:
+Access latency: 48.00 ns
+Resolution: 705032651 ns
+times:
+Access latency: 8047.00 ns
+Resolution: 972020224 ns
+
+
+sched_yield:
+Access latency: 29.00 ns
+Resolution: 1410065427 ns
